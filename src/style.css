@@ -7,14 +7,10 @@
   margin-top: 0;
 }
 
-.fieldset div {
-  padding: 5px 0;
+.proto {
+  margin-bottom: 10px;
 }
 
-.fieldset div:first-of-type {
-  padding-top: 0;
-}
-
-.fieldset div:last-of-type {
-  padding-bottom: 0;
+.fieldset .proto:last-of-type {
+  margin-bottom: 0;
 }
